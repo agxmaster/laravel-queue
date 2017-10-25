@@ -1,0 +1,192 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+[2017-10-21 09:42:42] Processing: App\Jobs\test
+[2017-10-21 09:42:42] Failed:     App\Jobs\test
+[2017-10-21 09:43:06] Processing: App\Jobs\test
+[2017-10-21 09:43:06] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:09] Processing: App\Jobs\test
+[2017-10-21 09:43:09] Processed:  App\Jobs\test
+[2017-10-21 09:43:24] Processing: App\Jobs\test
+[2017-10-21 09:43:24] Processed:  App\Jobs\test
+[2017-10-21 09:43:24] Processing: App\Jobs\test
+[2017-10-21 09:43:24] Processed:  App\Jobs\test
+[2017-10-21 09:43:24] Processing: App\Jobs\test
+[2017-10-21 09:43:24] Processed:  App\Jobs\test
+[2017-10-21 09:43:24] Processing: App\Jobs\test
+[2017-10-21 09:43:24] Processed:  App\Jobs\test
+[2017-10-21 09:43:24] Processing: App\Jobs\test
+[2017-10-21 09:43:24] Processed:  App\Jobs\test
+[2017-10-21 09:43:24] Processing: App\Jobs\test
+[2017-10-21 09:43:24] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:27] Processing: App\Jobs\test
+[2017-10-21 09:43:27] Processed:  App\Jobs\test
+[2017-10-21 09:43:30] Processing: App\Jobs\test
+[2017-10-21 09:43:30] Processed:  App\Jobs\test
+[2017-10-21 09:43:30] Processing: App\Jobs\test
+[2017-10-21 09:43:30] Processed:  App\Jobs\test
+[2017-10-21 09:43:33] Processing: App\Jobs\test
+[2017-10-21 09:43:33] Processed:  App\Jobs\test
+[2017-10-21 09:43:33] Processing: App\Jobs\test
+[2017-10-21 09:43:33] Processed:  App\Jobs\test
+[2017-10-21 09:43:33] Processing: App\Jobs\test
+[2017-10-21 09:43:33] Processed:  App\Jobs\test
+[2017-10-21 09:43:33] Processing: App\Jobs\test
+[2017-10-21 09:43:33] Processed:  App\Jobs\test
+[2017-10-21 09:43:33] Processing: App\Jobs\test
+[2017-10-21 09:43:33] Processed:  App\Jobs\test
+[2017-10-21 09:43:33] Processing: App\Jobs\test
+[2017-10-21 09:43:33] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processing: App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:42] Processed:  App\Jobs\test
+[2017-10-21 09:43:45] Processing: App\Jobs\test
+[2017-10-21 09:43:45] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processing: App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:43:48] Processed:  App\Jobs\test
+[2017-10-21 09:44:30] Processing: App\Jobs\test
+[2017-10-21 09:44:30] Processed:  App\Jobs\test
+[2017-10-21 09:44:51] Processing: App\Jobs\test
+[2017-10-21 09:44:51] Processed:  App\Jobs\test
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+[2017-10-23 01:27:34] Processing: App\Jobs\test
+[2017-10-23 01:27:35] Processed:  App\Jobs\test
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/20160303/test.so' - /usr/local/lib/libphpx.so: undefined symbol: json_globals in Unknown on line 0
